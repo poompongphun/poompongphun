@@ -4,10 +4,6 @@
 👋 Hello, I'm Pongphun Sakdasawit or you can call me Poom. I'm 19 years old. I am currently an information technology student 💻. I'm interested in all things technology especially the web and AI.
 <br /><br />
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=poompongphun&color=blueviolet">
-    <img align="center" src="https://komarev.com/ghpvc/?username=poompongphun&color=blueviolet" />
-  </a>
-  <br /><br />
   Visit my Website: https://poompongphun.github.io/
   <h3>Contact ☎️</h3>
   <a href="https://www.facebook.com/pongphunpoom/">
@@ -44,5 +40,9 @@
   <br /><br />
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=poompongphun&layout=compact&langs_count=8&theme=radical">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poompongphun&layout=compact&langs_count=8&theme=radical" />
+  </a>
+  <br /><br />
+  <a href="https://komarev.com/ghpvc/?username=poompongphun&color=blueviolet">
+    <img align="center" src="https://komarev.com/ghpvc/?username=poompongphun&color=blueviolet" />
   </a>
 </div>
