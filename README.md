@@ -39,10 +39,10 @@
 ## Status 📊
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api?username=poompongphun&count_private=true&show_icons=true&theme=radical" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=poompongphun&count_private=true&show_icons=true&theme=radical" />
   </a>
   <br /><br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poompongphun&layout=compact&langs_count=8&theme=radical" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poompongphun&layout=compact&langs_count=8&theme=radical" />
   </a>
 </div>
