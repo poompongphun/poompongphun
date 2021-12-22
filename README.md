@@ -4,7 +4,7 @@
 👋 Hello, I'm Pongphun Sakdasawit or you can call me Poom. I'm 19 years old. I am currently an information technology student 💻. I'm interested in all things technology especially the web and AI.
 <br /><br />
 <div align="center">
-  <a href="https://www.instagram.com/pooms_pp/">
+  <a href="https://komarev.com/ghpvc/?username=poompongphun&color=blueviolet">
     <img align="center" src="https://komarev.com/ghpvc/?username=poompongphun&color=blueviolet" />
   </a>
   <br /><br />
