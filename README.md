@@ -10,11 +10,11 @@
   <br /><br />
   Visit my Website: https://poompongphun.github.io/
   <h3>Contact ☎️</h3>
-  <a href="https://komarev.com/ghpvc/?username=poompongphun">
+  <a href="https://www.facebook.com/pongphunpoom/">
     <img align="center" width="30" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.facebook.com/pongphunpoom/">
+  <a href="https://www.instagram.com/pooms_pp/">
     <img align="center" width="30" src="https://www.mmthailand.com/wp-content/uploads/2020/04/ig-icon.png" />
   </a>
 </div>
